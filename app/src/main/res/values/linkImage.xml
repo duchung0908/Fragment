@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="flowers">
+        <item>https://rauxanh.net/wp-content/uploads/2020/01/hoa-mai.png</item>
+        <item>https://baoquangngai.vn/dataimages/202201/original/images2432117_1.jpg</item>
+        <item>https://khbvptr.vn/wp-content/uploads/2020/12/hoa-muoi-gio-011.jpg</item>
+        <item>https://cdn.eva.vn/upload/4-2017/images/2017-12-24/dieu-ki-dieu-it-ai-biet-ve-hoa-cuc-van-tho-cuc-van-tho-7-1514109619-703-width600height375.jpg</item>
+    </string-array>
+    <string-array name="animals">
+        <item>https://vuipet.com/uploads/images/bai-viet-thang-3/cho-corgi/cho-corgi-mong-to.jpg</item>
+        <item>https://toiyeucho.com/wp-content/uploads/2020/03/nen-nuoi-cho-alaska-hay-husky.jpg</item>
+        <item>https://nld.mediacdn.vn/2020/2/29/dui-dog-1582946893091786108496.jpg</item>
+        <item>https://sieupet.com/sites/default/files/pictures/images/gia-cho-shiba-inu-02.jpg</item>
+    </string-array>
+    <string-array name="foods">
+        <item>https://bepcuatoi.com/wp-content/uploads/2020/08/mon-pho-bo-thom-ngon.png</item>
+        <item>https://trivietphat.net/wp-content/uploads/2021/08/bun-bo-1.jpg</item>
+        <item>https://inhat.vn/wp-content/uploads/2020/10/quan-banh-xeo-quan-tan-phu-sai-gon4-768x614.jpg</item>
+        <item>https://cdn01.dienmaycholon.vn/filewebdmclnew/public//userupload/images/cach-nau-com-ngon-va-lau-thiu-3.jpg</item>
+    </string-array>
+</resources>
